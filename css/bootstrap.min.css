@@ -529,6 +529,10 @@ mark {
     text-transform: uppercase
 }
 
+.hoverhover:hover {
+    opacity: 0.8;
+}
+
 .blockquote {
     margin-bottom: 1rem;
     font-size: 1.25rem
